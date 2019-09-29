@@ -1,0 +1,15 @@
+[
+	{
+		"Home" :
+			{
+				"nama" : "antok nugroho",
+				"nim" : "1303170044",
+				"kelas" : "IT-41-01"
+			},
+		"About" : "i am joker",
+		"Hobbies" : ["playing games", "sleep", ""],
+		"Skills" : ["tidur dikelas", "molor dikelas", "sleeping dikelas"],
+		"Education" : ["TK", "SD", "SMP", "SMA", "Kuliah"],
+		"Experience" : ["tidur 20 jam dalam sehari", "kena banjir", "jatuh dari pohon"]
+	}
+]
